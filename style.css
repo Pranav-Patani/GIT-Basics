@@ -18,17 +18,28 @@ ol {
     margin: 10px 0px 10px 0px;
 }
 
+.git {
+    display: block;
+    height: 400px;
+    width: 100%;
+    background-color: orangered;
+    padding: 0 auto 0 auto;
+}
 .Tips {
     display: block;
-    margin: 0 auto 0 auto;
-    height: 300px;
-    padding-bottom: 10px;
+    margin: 0 auto 10px auto;
+    height: 250px;
+    padding: 20px 0px 20px 0px;
     
+}
+
+.tipback {
+    background-color: rgb(99, 30, 30);
 }
 
 .heading {
     color: rgb(226, 196, 196);
-    margin: 0px 0px 10px 0px;
+    margin: 0px 0px 40px 0px;
     padding: 30px 14px 30px 14px;
     background-color: rgb(97, 64, 64);
     font-size: 20px;
@@ -38,6 +49,12 @@ ol {
 }
 
 .bottom-line {
-    padding: 10px 10px 10px 10px;
+    padding: 40px 10px 40px 10px;
     background-color: rgb(97, 64, 64);
+    color: rgb(209, 166, 58);
+    text-align: center;
+}
+
+a {
+    color: goldenrod;
 }
