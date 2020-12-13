@@ -3,8 +3,9 @@
     margin: 0;
 }
 
-body {
+.container {
     text-align: justify;
+    width: 1140px;
 }
 
 h1 {
